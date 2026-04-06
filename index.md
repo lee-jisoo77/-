@@ -30,6 +30,3 @@
 ### 연락처
 - 이메일: <jisoo2664@kw.ac.kr>
 - [GitHub 주소](https://github.com/lee-jisoo77)
-
-### 추천인
-- 광운대학교 정보융합학부 박규동 교수님
